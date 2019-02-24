@@ -1,0 +1,58 @@
+1. What is the operating range of the oil pressure?
+2. What is the IDLE operating range of the oil pressure?
+3. During extreme cold, the oil pressure may __________?
+4. The low oil pressure light  goes out at ___ and comes back on at ____.
+5. A clogged Scavenge Oil Filter will also illuminate the low oil pressure light(True or False)
+6. Continues operation oil tempature up to _____.
+7. Engine operation may continue for 10 minutes if oil temperature is ______ to ______.
+8. Engine shutdown if oil temperature is above _____.
+9. Before going to TRT(Take-off Rated Thrust), oil temperature must be at least _____.
+10. Fuel flow at breakout will be _____.
+11. Fuel flow at IDLE will be _____.
+12. What is the fuel flow before light off that is the first indication of a possible hot start?
+13. How many seconds after advancing throttle to start is EGT indication?
+14. EGT should be below _____ for cross check at 40% N2.
+15. What is the max EGT at start?
+16. What is the max EGT at ground and flight idle?
+17. What is the max EGT for continuous operation?
+18. Max continuous operation is limited to _____ above 870 Celsius.
+19. Max EGT for above idle?
+20. Amber caution light illuminates at _____.
+21. Hydraulic quantity for Left System?
+22. Hydraulic quantity for Right System?
+23. Minimum Left and Right system hydraulic quantity after start?
+24. Hydraulic pressure for reserve brake?
+25. Hydraulic pressure for engine driven pumps?
+26. What is the starter duty cycle for starting?
+27. What is the starter duty cycle for motoring?
+28. N1 RPM at ground idle?
+29. N2 RPM at ground idle?
+30. N1 Max RPM is?
+31. N2 Max RPM is?
+32. Terminate run if fuel quantity drops below _____ for an idle run.
+33. Terminate run if fuel quantity drops below _____ for 4 engines to 75% N2.
+34. Terminate run if fuel quantity drops below _____ for 2 engines to TRT(Take-off Rated Thrust).
+35. Whenever inboard engines are ran above 40% N1, the symmetrical engine must be within ___ N1.
+36. Whenever outboard engines are ran above ground idle, the symmetrical engine must be within ___ N1.
+37. Icing conditions are defined as _____________ and visible moisture is present.
+38. Do NOT re-engae the starter above ____ N2.
+39. If ambient air temperature is colder than 32F and the first start attempt is unsuccesful, apply heat to the MEC for _____, _____ is preferred.
+40. The ignition system is designed for ______ usage.
+41. Below 32F, place IGNITION and START switch to ___________ after N2 reaches 50%.
+42. If the starter valve light fails to go out:
+43. IDG Warm-Up for _____ when OAT is below 40F.
+44. Run engines for ____ at IDLE before advancing to higher power setting and before shutting down.
+45. QSAS accumulator pressure for Start/Stop.
+46. QSAS EGT in GEN only mode:
+47. QSAS EGT in RDY/Normal/Air mode:
+48. QSAS EGT in EWO:
+49. QSAS RPM is always:
+50. QSAS takes approx _____ to reach 100%:
+51. QSAS Battery must be a minimum of ______ when pressing test Fire System or inadvertent discharge of fire bottles may occur.
+52. Frozen door check when temperature is below ______.
+53. Hearing protection is required aft of ______ when QSAS is operating.
+54. Start condition when EGT does not rise.
+55. Start condition when EGT does rise with no increae in RPM.
+56. Start condition when EGT exceeds start temperature(725C), F/F is an early indication.
+57. Start condition when light off is followed by rapid EGT rise, RPM stabilization is below GI.
+58. Start condition when there is N2 rollback, F/F is not a good stall indicator.

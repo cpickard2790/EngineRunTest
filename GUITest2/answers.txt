@@ -1,0 +1,232 @@
+11-90psi
+13-30psi
+45-60psi
+20-40psi
+15-30psi
+20-35psi
+13-35psi
+5-20psi
+Not do anything
+May peak to full scale
+Go back and forth
+Spin around
+11psi, 5psi
+13psi, 10psi
+11psi, 13psi
+13psi, 11psi
+True
+False
+
+
+160 Celsius
+175 Celsius
+161 Celsius
+200 Celsius
+161 Celsius, 170 Celsius
+160 Celsius, 170 Celsius
+165 Celsius, 180 Celsius
+161 Celsius, 175 Celsius
+165 Celsius
+175 Celsius
+170 Celsius
+180 Celsius
+>20 Celsius
+>10 Celsius
+>0 Celsius
+>5 Celsius
+400 to 800pph
+350 to 600pph
+300 to 680pph
+450 to 850pph
+300 to 800pph
+400 to 800pph
+300 to 600pph
+450 to 850pph
+>600pph
+>700pph
+>640pph
+>680pph
+5 seconds
+10 seconds
+7 seconds
+4 seconds
+725 Celsius
+600 Celsius
+680 Celsius
+875 Celsius
+725 Celsius
+680 Celsius
+600 Celsius
+875 Celsius
+725 Celsius
+680 Celsius
+600 Celsius
+875 Celsius
+725 Celsius
+680 Celsius
+870 Celsius
+875 Celsius
+15 minutes
+10 minutes
+3 minutes
+5 minutes
+725 Celsius
+905 Celsius
+870 Celsius
+875 Celsius
+870 Celsius
+905 Celsius
+725 Celsius
+875 Celsius
+3.0 to 4.0 gallons
+4.0 to 4.5 gallons
+3.75 to 4.25 gallons
+2.0 to 4.0 gallons
+3.0 to 4.0 gallons
+4.0 to 4.5 gallons
+3.75 to 4.25 gallons
+2.0 to 4.0 gallons
+4.0 gallons
+3.0 gallons
+3.75 gallons
+2.0 gallons
+3100psi
+3400psi
+2000psi
+3200psi
+2500 to 3000psi
+3100 to 3400psi
+2850 to 3200psi
+2800 to 3200psi
+90sec on - 60off - 90on - 60 off - 90on - 10min off
+5min on - 10 off - 5on - 30min off
+90sec on - 30off - 90on - 30 off - 90 on - 10min off
+60sec on - 30off - 60on - 30off - 60on - 10min off
+90sec on - 60off - 90on - 60 off - 90on - 10min off
+5min on - 10 off - 5on - 30min off
+90sec on - 30off - 90on - 30 off - 90 on - 10min off
+60sec on - 30off - 60on - 30off - 60on - 10min off
+14 to 20%
+16 to 24%
+54 to 62%
+16 to 22%
+14 to 20%
+16 to 24%
+54 to 62%
+16 to 22%
+102%
+105%
+100%
+103%
+102%
+105%
+100%
+103%
+60,000lbs
+15,000lbs
+40,000lbs
+20,000lbs
+60,000lbs
+15,000lbs
+40,000lbs
+20,000lbs
+60,000lbs
+15,000lbs
+40,000lbs
+20,000lbs
+2%
+3%
+10%
+5%
+2%
+3%
+5%
+1%
+below 50F
+below 32F
+below 40F
+below 42F
+16%
+25%
+20%
+5%
+10 min, 30 min
+5 min, 10 min
+5 min, 15 min
+10 min, 20 min
+lots of
+limited
+little
+unlimited
+Start
+Off
+Ignition
+ON
+Throttle lever to cut-off and Bleed air switch to OFF
+Continue running
+Pull T-Handle
+Throttle lever to cut-off
+10 minutes
+5 minutes
+15 minutes
+No warm up needed
+10 minutes
+60 seconds
+15 minutes
+5 minutes
+3000 +/- 350psi
+2850 to 3200psi
+2850 +/- 200psi
+3200 +/- 250psi
+900F
+1200F
+800F
+1300F
+1200F
+900F
+800F
+1300F
+1200F
+900F
+800F
+1300F
+80%
+100%
+90%
+102%
+5 seconds
+7 seconds
+11 seconds
+9 seconds
+21 VDC
+24 VDC
+18 VDC
+20 VDC
+32F
+40F
+50F
+35F
+STA 930
+STA 900
+STA 800
+STA 750
+False Start
+Sub-Idle Start Stall
+Hung Start
+No Start
+False Start
+Hot Start
+Hung Start
+No Start
+False Start
+Hot Start
+Hung Start
+No Start
+False Start
+Hot Start
+Hung Start
+No Start
+False Start
+Sub-Idle Start Stall
+Hung Start
+No Start
